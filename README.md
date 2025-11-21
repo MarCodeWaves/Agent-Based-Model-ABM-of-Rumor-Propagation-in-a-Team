@@ -47,7 +47,6 @@ Simulation Duration: High leader influence generally reduced the overall duratio
 **Documentation**
 
 Detailed analysis, model characteristics, modification rationale, and visualization of results are available in the project files:
-
+_ABM_MODEL_CODE.nlogo
 Report.docx
-
-ABM_Model_with_leader.pdf
+ABM_Model_with_leader.pdf_
